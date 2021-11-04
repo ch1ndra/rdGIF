@@ -18,10 +18,10 @@ rdGIF is a small cross-platform C library to read and convert GIF image files
 * Requires GNU make
 
 # Instructions
-* To compile/build the gif library, run
+* To compile/build the gif library, run:
 make giflib
 
-* To also compile the utility program (jpg2bmp), run
+* To also compile/build the utility program (jpg2bmp), run:
 make all
 
 # That's all folks.
